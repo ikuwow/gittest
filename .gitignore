@@ -1,1 +1,3 @@
-/SomeFolder
+#/SomeFolder
+/SomeFolder/*
+!/SomeFolder/.gitkeep
